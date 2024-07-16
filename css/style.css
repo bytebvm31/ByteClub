@@ -20,6 +20,9 @@
     bottom: 45px;
     z-index: 99;
 }
+body::-webkit-scrollbar{
+    display: none;
+}
 
 
 
