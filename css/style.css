@@ -79,7 +79,13 @@ body::-webkit-scrollbar{
     font-weight: normal;
     border-radius: 0px;
 }
+.banner_bg{
+    background: url(../img/banner_byte.jpg);
+    height: 50vh;
+    width: 100vw; 
+    box-shadow:  5px  5px 15px;
 
+}
 
 /*** Navbar ***/
 .navbar .dropdown-toggle::after {
