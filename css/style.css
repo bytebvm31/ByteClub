@@ -189,8 +189,8 @@ body::-webkit-scrollbar{
 .header-carousel .owl-nav .owl-prev,
 .header-carousel .owl-nav .owl-next {
     margin: 7px 0;
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
     display: flex;
     align-items: center;
     justify-content: center;
